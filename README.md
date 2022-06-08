@@ -6,7 +6,7 @@ Neste repositório ficarão organizadas todas as anotações referente ao Santan
 
 1. Módulo I - Conteúdo de Abertura
     1. Introdução à Programação e Pensamento Compotacional
-    2. [Introdução ao Git e GitHub] (https://github.com/DavidRodrigues/dio-anotacoes/blob/main/modulos/modulo1/introducao_git_github/introducao_git_github.md)
+    2. [Introdução ao Git e GitHub](https://github.com/DavidRodrigues/dio-anotacoes/blob/main/modulos/modulo1/introducao_git_github/introducao_git_github.md)
     3. Criando seu Primeiro Repositório  no GitHub Para Compartilhar Seu Progresso
 2. Módulo II - HTML/CSS3/JS
 3. Módulo III - Angular
