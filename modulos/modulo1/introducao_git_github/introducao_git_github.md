@@ -23,3 +23,6 @@ Ferramenta utilizada para versionamento de arquivo de forma distribuída
 | git config [ --global ] --unset \<propriedade\>    | Remove uma propriedade da configuração global do git <br/><sub>(Caso o parâmetro `--global` não seja informado, a configuração valerá apenas para este repositório)</sub>           |
 | git remote add origin \<url do repositorio\>       | Adiciona a url de um novo repositório remoto                                                                                                                                        |
 
+
+
+[Voltar ao Índice](https://github.com/DavidRodrigues/dio-anotacoes)
