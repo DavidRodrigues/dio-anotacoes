@@ -12,5 +12,5 @@ Ferramenta utilizada para versionamento de arquivo de forma distribuída
 | git add .  | adiciona alteração na stage  |
 | git commit -m ""  | commita alterações  |
 | git pull  | baixa alterações remotas  |
-| git push -u origin <repositório>  | envia alterações locais  |
+| git -u push origin <repositório>  | envia alterações locais  |
 | git status  | lista arquivos alterados no repositório  |
