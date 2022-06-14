@@ -10,7 +10,7 @@ Propriedades do CSS que tem como intuito permitir a criação de um modelo de la
 | Comandos       | Descrição                                                                                              |
 |----------------|--------------------------------------------------------------------------------------------------------|
 | flex-container | Tag que envolve os itens. Tag que recebe a propriedade display: flex                                   |
-| flex-items     | Elementos filhos diretos do Flex Container.<br/><sub>(Os filhos também podem ser Flex Container)</sub> |
+| flex-items     | Elementos filhos diretos do flex-container.<br/><sub>(Os filhos também podem ser flex-container)</sub> |
 
 ### Propriedades relacionadas ao Flex Container
 
