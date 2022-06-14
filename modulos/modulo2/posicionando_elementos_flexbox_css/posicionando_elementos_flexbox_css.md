@@ -17,7 +17,7 @@ Propriedades do CSS que tem como intuito permitir a criação de um modelo de la
 | Comandos           | Descrição                                                                                          |
 |--------------------|----------------------------------------------------------------------------------------------------|
 | display            | Inicializador do flex-container                                                                    |
-| flex-direction     | Define o direcionamento `[row | column]` do item dentro do flex-container                          |
+| flex-direction     | Define o direcionamento `[row or column]` do item dentro do flex-container                          |
 | flex-wrap          | Define a quebra de linha dos itens distribuidos dentro do flex-container                           |
 | flex-flow          | Abreviação para as propriedades flex-direction e flex-wrap                                         |
 | justify-content    | Alinha os itens do flex-container de acordo com a direção                                          |
